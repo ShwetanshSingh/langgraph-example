@@ -11,3 +11,8 @@ dependencies = [
     "langgraph>=0.5.4",
     "tavily-python>=0.7.10",
 ]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.4",
+]
