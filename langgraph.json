@@ -1,5 +1,5 @@
 {
-  "dependencies": ["./my_agent/requirements.txt"],
+  "dependencies": ["./pyproject.toml"],
   "graphs": {
     "agent": "./my_agent/agent.py:graph"
   },
